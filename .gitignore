@@ -1,0 +1,7 @@
+booste-*
+__pycache__
+.DS_Store
+*.txt
+*.tfrecords
+*.index
+*.out
